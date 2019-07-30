@@ -1,0 +1,25 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "App to show weather at an inputted city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": {
+      "type": "git",
+      "url": ""
+    }
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Phil Shin",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^13.3.0"
+  }
+}
